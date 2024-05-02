@@ -1,0 +1,3 @@
+Food security is my theme, I used green colour to represent food green environment since the intension of food organizations is to ensure that every one access food regardless his/her economic status, religion and other factors and this is why I used the slogan fighting against hunger .
+I used Css and JavaScript editors in styling my website, where Css helped me with different styling such as background colour, moving paragraphs, hovers, grid etc. and JavaScript helped me to achieve slider shows in different pages.
+I also went ahead and used additional stylings in the code it’s self so as to achieve an appealing website to the viewer .
